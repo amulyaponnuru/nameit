@@ -1,6 +1,8 @@
 My First react project :)
 NAME IT!
 
+Check it out: https://amulyaponnuru.github.io/nameit/
+
 Two types of components => Class-based & Functional components
 
 ## Resources
